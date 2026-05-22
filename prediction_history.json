@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2026-04-08 22:03:26",
+    "input": {
+      "policy_rate": 10.5,
+      "inflation": 5.8,
+      "gdp_growth": 3.5,
+      "construction_cost_index": 450,
+      "exchange_rate": 513,
+      "unemployment": 4.2,
+      "price_lag1": 10.0,
+      "price_lag2": 9.8,
+      "price_lag3": 9.5,
+      "price_ma2": 9.9,
+      "price_ma3": 9.8,
+      "price_change": 2.0,
+      "city": "Islamabad",
+      "dev_status": "Fully Developed",
+      "society": "DHA Islamabad",
+      "size": 10.0
+    },
+    "prediction": 0
+  }
+]
