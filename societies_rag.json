@@ -1,38 +1,66 @@
-[
-    {
-      "id": "SOC_001",
-      "city": "Islamabad",
-      "society_name": "Bahria Town Islamabad",
-      "owner_developer": "Owned by Malik Riaz Hussain; developed by Bahria Town (Pvt) Ltd. Chief leadership includes Chairman Malik Riaz and CEO Faiz Mohiuddin.",
-      "noc_legal_status": "Highly secure. Initial regulatory approval from CDA was formalised on July 05, 2001. Phases 1–7 hold full, clear No Objection Certificates (NOCs) and layouts with complete legal protection. Phase 8 development extension works operate on a structural layout clearance path.",
-      "road_infrastructure": "World-class independent grid planning. Main access corridors tie directly into Jinnah Avenue (Zone IV), Grand Trunk (GT) Road, and Expressway linkages. Features underground utilities (electricity, water, gas), wide carpeted dual-carriageway boulevards, and self-sufficient municipal grid operations.",
-      "five_year_price_trend_analysis": "Historical data reflects high structural stability. The dataset shows tight clustering for commercial files where weights range predictably between 0.011 and 0.016. Residential files exhibit robust variance with a baseline premium value spike around 0.055, driven by mature on-ground possessions and zero-vacancy rental yields in established phases."
+{
+  "Bahria Town Islamabad": {
+    "noc_status": "Approved",
+    "governing_authority": "Capital Development Authority (CDA)",
+    "owner_developer": "Malik Riaz Hussain / Bahria Town (Pvt) Ltd",
+    "average_rates_2026": {
+      "5_marla": "PKR 9,500,000 - PKR 16,000,000",
+      "10_marla": "PKR 14,500,000 - PKR 30,000,000",
+      "1_kanal": "PKR 32,000,000 - PKR 55,000,000"
     },
-    {
-      "id": "SOC_002",
-      "city": "Islamabad",
-      "society_name": "Capital Smart City",
-      "owner_developer": "Owned and sponsored by Future Development Holdings Private Limited (FDHL) in partnership with Habib Rafiq Private Limited (HRL). Master-planned by international urban consultants Surbana Jurong (Singapore).",
-      "noc_legal_status": "Legally approved by the Rawalpindi Development Authority (RDA). Initial layout approved for 2,000 Kanals in 2017, revised and expanded to 7,376 Kanals in 2019, and currently holding a high-coverage master plan NOC spanning approximately 13,098 Kanals. Extensions/Phase 3 revisions are under regulatory assessment.",
-      "road_infrastructure": "High-tech smart network infrastructure. Central axis features an 18-lane, 400-foot-wide Main Boulevard including dedicated Bus Rapid Transit (BRT) tracks and cycling lanes. Fully integrated with an independent, dedicated, and operational M-2 Motorway Interchange approved by the National Highway Authority (NHA).",
-      "five_year_price_trend_analysis": "Reflects typical mega-project lifecycle dynamics. Early investment files experienced rapid speculative valuation waves. Commercial file data structures settle firmly between 0.012 and 0.016. Residential blocks display standard flat distribution patterns around 0.032, highlighting sustained long-term capital gains as development converts to possession."
+    "red_flags": [
+      "Hidden registration surcharges transferring to secondary buyers.",
+      "Outstanding historic maintenance fee arrears or non-payment penalties.",
+      "Speculative file double-allocation schemes in unballoted expansion phases."
+    ],
+    "legal_note": "Bahria Town Islamabad is a fully developed premium housing scheme with documented NOC history; always verify the latest file number and ledger clearance with the main registry office before executing transfer deeds."
+  },
+  "Capital Smart City": {
+    "noc_status": "Approved (zone-specific LOP)",
+    "governing_authority": "Rawalpindi Development Authority (RDA)",
+    "owner_developer": "Future Developments Holdings (FDHL) & Habib Rafiq (Pvt) Ltd",
+    "average_rates_2026": {
+      "5_marla": "PKR 2,200,000 - PKR 3,600,000",
+      "10_marla": "PKR 4,500,000 - PKR 6,500,000",
+      "1_kanal": "PKR 9,000,000 - PKR 16,000,000"
     },
-    {
-      "id": "SOC_003",
-      "city": "Islamabad",
-      "society_name": "DHA Islamabad",
-      "owner_developer": "Defence Housing Authority (DHA) Islamabad-Rawalpindi, operating under institutional military-backed administration. Frequently executes prime joint ventures with public authorities like the CDA and FGEHA.",
-      "noc_legal_status": "Flawless legal standing. Operates under constitutional parliamentary acts, providing absolute immunity from typical private developer litigation risks. Flagship joint ventures (e.g., Margalla Enclave and Margalla Orchards) hold direct, dual-backed CDA NOC approvals secured in 2022.",
-      "road_infrastructure": "Premier defensive urban planning. Highly integrated road networks connected directly to the Islamabad Highway, GT Road, and the newly developing Park Road expansion corridor. Roads are designed with strict construction codes, wide setbacks, and advanced storm-water drainage layouts.",
-      "five_year_price_trend_analysis": "Characterised by rock-solid institutional security. Commercial values match prime corporate real estate demands, indexing reliably between 0.012 and 0.016. Residential values present a stable baseline model around 0.025 with minor local variance, indicating a safe-haven asset class for long-term wealth preservation."
+    "red_flags": [
+      "Artificially inflated speculative file-trading pools.",
+      "Extended development holding cycles for overseas blocks before layout deployment.",
+      "Subsequent development charges or utility connection surcharges not included in early booking slips."
+    ],
+    "legal_note": "Capital Smart City operates under approved master planning; overseas and executive blocks may have separate sub-approvals—confirm precise block-level LOP verification and regulatory status at booking."
+  },
+  "DHA Islamabad": {
+    "noc_status": "Approved",
+    "governing_authority": "Defence Housing Authority / Ministry of Defence",
+    "owner_developer": "Defence Housing Authority (DHA), Islamabad-Rawalpindi",
+    "average_rates_2026": {
+      "5_marla": "PKR 12,000,000 - PKR 18,000,000",
+      "10_marla": "PKR 22,000,000 - PKR 35,000,000",
+      "1_kanal": "PKR 45,000,000 - PKR 75,000,000"
     },
-    {
-      "id": "SOC_004",
-      "city": "Islamabad",
-      "society_name": "Faisal Town",
-      "owner_developer": "Developed by Zedem International Private Limited under the definitive market leadership of Chairman Chaudhry Abdul Majeed—a highly trusted real estate pioneer in the region.",
-      "noc_legal_status": "Phase 1 is fully completed, delivered, and legal. For the massive ongoing expansion (Faisal Town Phase 2 covering over 90,000 Kanals), the complete legal registration and structural layout plans have been formally submitted to the Rawalpindi Development Authority (RDA) and are processing under active administrative execution.",
-      "road_infrastructure": "Rapidly developing mega-axis. Located near the Islamabad International Airport with core arterial access points routed via the Thalian Interchange on the M-2 Motorway and direct planned linkages to the Rawalpindi Ring Road. Features an expansive 365-foot-wide main structural boulevard.",
-      "five_year_price_trend_analysis": "Shows intense early-buyer market momentum. Model baseline weights reflect strong transactional volumes. Commercial plots trend smoothly across the 0.012 to 0.017 range. Residential plots establish a solid baseline at 0.029, showing excellent secondary-market liquidity and rapid equity generation for early file holders."
-    }
-  ]
+    "red_flags": [
+      "Circulation of forged/duplicate allocation files by unvetted outside brokers.",
+      "Significant variance in utility infrastructure maturity across outer phase borders.",
+      "Extremely strict transfer timelines with heavy penal processing fees for late submissions."
+    ],
+    "legal_note": "DHA Islamabad phases are premier established developments; check phase-specific transfer records, ground demarcation parameters, and utility completion registries directly at the corporate center before purchase."
+  },
+  "Faisal Town": {
+    "noc_status": "Approved",
+    "governing_authority": "Rawalpindi Development Authority (RDA)",
+    "owner_developer": "Chaudhry Abdul Majeed / Zedem International",
+    "average_rates_2026": {
+      "5_marla": "PKR 7,500,000 - PKR 11,000,000",
+      "10_marla": "PKR 13,000,000 - PKR 20,000,000",
+      "1_kanal": "PKR 25,000,000 - PKR 38,000,000"
+    },
+    "red_flags": [
+      "Phase 2 pre-launch registry booking slip duplication issues.",
+      "Record synchronization delays between secondary market transfers and central server databases.",
+      "Localized delays in boundary demarcation allocations for rapid-growth blocks."
+    ],
+    "legal_note": "Faisal Town sectors are part of a highly successful urban scheme; check the verified allotment ledger, physical sector maps, and the absolute continuity of the transfer chain for the specific plot code."
+  }
+}
